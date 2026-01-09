@@ -1,4 +1,4 @@
-# Landscapefotgeai Python API library
+# Landscapeforgeai Python API library
 
 <!-- prettier-ignore -->
 [![PyPI version](https://img.shields.io/pypi/v/landscapefotgeai.svg?label=pypi%20(stable))](https://pypi.org/project/landscapefotgeai/)
